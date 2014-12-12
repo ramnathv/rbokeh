@@ -1,0 +1,6 @@
+dependencies:
+  - name: bokeh
+    version: 0.6.0
+    src: 'htmlwidgets/bokeh'
+    script: bokeh-0.6.0.min.js
+    stylesheet: bokeh-0.6.0.min.css

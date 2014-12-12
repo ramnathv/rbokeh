@@ -1,0 +1,9 @@
+Package: rbokeh
+Type: Package
+Title: R Bindings for Bokeh
+Description: R Bindings for Bokeh
+Version: 0.1
+Date: 2014-09-12
+Author: Ramnath Vaidyanathan and Kenton Russell
+Maintainer: Ramnath Vaidyanathan <ramnath.vaidya@gmail.com>
+License: MIT + file LICENSE
